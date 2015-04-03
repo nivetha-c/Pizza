@@ -1,0 +1,3 @@
+User can order pizza in online.
+First he has to login.
+If he has an account he can simply sign in. Or else he needs to sign up. After the login, he can selsct the category of pizza ( veg/ non veg). Then he can choose the desired pizza and number of pizzas. Then the bill will be generated. The payment can be made either by online fund transfer or cash on delivery. Now the delivery details will be fetched. Then the orderis plced and the user can just logout
